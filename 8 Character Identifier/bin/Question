@@ -1,0 +1,1 @@
+Create a program that identifies a character as a lower-case vowel, upper-case vowel, lower-case consonant, upper-case consonant, digit, or special character. The program should accept a character 'ch' as input.
